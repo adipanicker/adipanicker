@@ -9,7 +9,7 @@ React · Node.js · PostgreSQL · Tailwind · a little AI.
 
 **shipped**
 
-[**LifeQuest**](https://lifequest.vercel.app) — gamified productivity app with AI quests, XP system & streak tracking  
+[**LifeQuest**](https://life-quest-chi.vercel.app) — gamified productivity app with AI quests, XP system & streak tracking  
 [**adityapanicker.com**](https://adityapanicker.com) — my corner of the internet
 
 ---
