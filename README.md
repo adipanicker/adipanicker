@@ -31,7 +31,7 @@ React · Node.js · PostgreSQL · Tailwind · a little AI.
 **a few things**
 
 - 🛰 NASA Space Apps Challenge — Exemplary Award
-- 💻 275+ LeetCode problems in C++
+- 💻 300+ LeetCode problems in C++
 - 🎓 B.Tech CSE, 2025
 
 ---
